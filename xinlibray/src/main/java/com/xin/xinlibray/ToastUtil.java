@@ -1,4 +1,4 @@
-package com.xin.myapplicationt;
+package com.xin.xinlibray;
 
 import android.content.Context;
 import android.view.Gravity;
